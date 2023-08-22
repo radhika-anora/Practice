@@ -1,2 +1,2 @@
-it was a prank
+print("it was a prank")
 
